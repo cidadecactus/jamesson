@@ -1,5 +1,5 @@
 function Home() {
-    return <div>HOME</div>
+    return <div>Pagina no ar</div>
 }
 
 export default Home
